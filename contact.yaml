@@ -1,0 +1,6 @@
+global:
+    creator_name: ""
+    creator_email: ""
+    contact: ""
+    # Name or role, e.g. COSIMA data manager
+    publisher_name: ""
