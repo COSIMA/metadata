@@ -1,4 +1,5 @@
 global:
+    title: ""
     id: "put DOI in here"
     source: ""
     references: ""
