@@ -1,0 +1,3 @@
+variables:
+    hi_m:
+        standard_name: "sea_ice_thickness"

@@ -1,0 +1,9 @@
+variables:
+    TLON:
+        standard_name: "longitude"
+    TLAT:
+        standard_name: "latitude"
+    time:
+        standard_name: "time"
+    tarea:
+        standard_name: "cell_area"
