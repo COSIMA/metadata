@@ -1,4 +1,4 @@
 global:
-    publisher: ""
-    institution: ""
-    organisation: ""
+    publisher: "National Computational Infrastructure"
+    institution: "Australian National University"
+    organisation: "COSIMA - Consortium for Ocean-Sea Ice Modelling in Australia"

@@ -1,6 +1,6 @@
 global:
-    # The version of the dataset (not the model) so use v1.0 or v+date, 
-    # it’s up to you but be consistent and use something that clearly 
+    # The version of the dataset (not the model) so use v1.0 or v+date,
+    # it’s up to you but be consistent and use something that clearly
     # identify the version progression
     product_version: "1.0"
-    date_created: "YYYY-MM-DD"
+    date_created: "2019-10-31"

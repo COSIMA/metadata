@@ -1,6 +1,6 @@
 global:
-    creator_name: ""
-    creator_email: ""
-    contact: ""
+    creator_name: "Andy Hogg"
+    creator_email: "Andy.Hogg@anu.edu.au"
+    contact: "Andy Hogg"
     # Name or role, e.g. COSIMA data manager
-    publisher_name: ""
+    publisher_name: "COSIMA"
