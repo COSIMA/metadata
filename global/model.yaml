@@ -1,5 +1,4 @@
 global:
-    model_id: "ACCESS-OM2"
     source: "https://doi.org/10.5281/zenodo.2653246"
     references: "Kiss et al., ACCESS-OM2: A Global Ocean-Sea Ice Model at Three Resolutions, Geosci. 
                  Model Dev. https://doi.org/10.5194/gmd-2019-106 ; 
