@@ -1,3 +1,6 @@
 global:
     title: "ACCESS-OM2 0.1 degree resolution JRA55-do v1.3 interannual forcing"
+    summary: "Data from a run of the ACCESS-OM2-01 0.1-degree coupled ocean-sea ice 
+              global model, driven by JRA55-do v1.3 over 1985-2017. Part of a 
+              multi-resolution experiment; details in Kiss (2019)."
     tracking_id: "2e8c6a26-695f-4380-82b5-be9ecda7f033"
