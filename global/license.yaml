@@ -1,9 +1,3 @@
 global:
-    # Mandatory since it gives a key to all the other attributes
     Conventions: "CF-1.7, ACDD-1.3"
-    # Possibly the url of a license applied to the data
-    # We have information on licensing on our wiki, CC comes in different flavours and 
-    # is recommended 4.0 as it is an international version, as well ass being more recent. 
-    # Make sure that whatever you apply doesn’t break any licensing requirements from the 
-    # models used
     license: "http://creativecommons.org/licenses/by-nc-sa/4.0/"

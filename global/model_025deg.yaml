@@ -1,6 +1,7 @@
 global:
+    model_id: "ACCESS-OM2-025"
     title: "ACCESS-OM2 0.25 degree resolution JRA55-do v1.3 interannual forcing"
-    id: "10.5194/gmd-2019-106"
-    source: "https://github.com/COSIMA/access-om2"
-    references: "Kiss et al., ACCESS-OM2: A Global Ocean-Sea Ice Model at Three Resolutions, Geosci. Model Dev."
-    keywords: "ACCESS-OM2 Global Ocean Sea Ice Model"
+    summary: "Data from a run of the ACCESS-OM2-025 0.25-degree coupled ocean-sea 
+              ice global model, driven by JRA55-do v1.3 over five repeats of 1958-2017 
+              forcing. Part of a multi-resolution experiment; details in Kiss (2019)."
+    tracking_id: "89b82379-6d41-4b46-aff8-01292a45ab1e"

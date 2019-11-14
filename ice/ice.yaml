@@ -7,3 +7,13 @@ variables:
         standard_name: "time"
     tarea:
         standard_name: "cell_area"
+    ni:
+        units: "1"
+        long_name: "cell index along first dimension" 
+    nj:
+        units: "1"
+        long_name: "cell index along second dimension" 
+    nc:
+        units: "1"
+        long_name: "ice category index" 
+

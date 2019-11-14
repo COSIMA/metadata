@@ -1,6 +1,12 @@
 global:
-    title: ""
-    id: "put DOI in here"
-    source: ""
-    references: ""
-    keywords: ""
+    source: "https://doi.org/10.5281/zenodo.2653246"
+    references: "Kiss et al., ACCESS-OM2: A Global Ocean-Sea Ice Model at Three Resolutions, Geosci. 
+                 Model Dev. https://doi.org/10.5194/gmd-2019-106 ; 
+                 Tsujino, H., et al. (2018). JRA-55 based surface dataset for driving ocean - sea-ice models 
+                 (JRA55-do). Ocean Modelling, 130:79-139. http://dx.doi.org/10.1016/j.ocemod.2018.07.002"
+    keywords: "global, ocean, sea ice, model"
+    acknowledgement: "COSIMA is funded by the Australian Research Council through its Linkage Program (LP160100073). 
+                      This research was supported by the ARC Centre of Excellence for Climate Extremes which is 
+                      supported by the Australian Research Council via grant CE170100023. This research was undertaken 
+                      with the assistance of resources from the National Computational Infrastructure (NCI), which is 
+                      supported by the Australian Government." 
