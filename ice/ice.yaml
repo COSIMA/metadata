@@ -16,4 +16,6 @@ variables:
     nc:
         units: "1"
         long_name: "ice category index" 
+    d2:
+        units: "1"
 
