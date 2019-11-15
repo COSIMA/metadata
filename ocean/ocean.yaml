@@ -1,11 +1,11 @@
 variables:
     yt_ocean:
-        long_name: "latitude in rotated pole tcell grid"
+        long_name: "latitude in rotated tcell pole grid"
         units: "degrees"
     xt_ocean:
-        long_name: "longitude in rotated pole tcell grid"
+        long_name: "longitude in rotated tcell pole grid"
         units: "degrees"
-    yu_ocean:
+    u_ocean:
         long_name: "latitude in rotated pole ucell grid"
         units: "degrees"
     xu_ocean:
@@ -31,3 +31,5 @@ variables:
         standard_name: "time"
     nv:
         units: "1"
+    st_ocean:
+        standard_name: "depth"
