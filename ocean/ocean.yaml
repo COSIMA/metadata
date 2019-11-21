@@ -2,15 +2,19 @@ variables:
     yt_ocean:
         long_name: "latitude in rotated tcell pole grid"
         units: "degrees"
+        axis: "Y"
     xt_ocean:
         long_name: "longitude in rotated tcell pole grid"
         units: "degrees"
-    u_ocean:
+        axis: "X"
+    yu_ocean:
         long_name: "latitude in rotated pole ucell grid"
         units: "degrees"
+        axis: "Y"
     xu_ocean:
         long_name: "longitude in rotated pole ucell grid"
         units: "degrees"
+        axis: "X"
     geolon_t:
         long_name: "longitude coordinate"
         units: "degrees_east"
