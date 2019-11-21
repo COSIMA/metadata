@@ -1,8 +1,14 @@
 variables:
     TLON:
         standard_name: "longitude"
+        axis: "X"
     TLAT:
         standard_name: "latitude"
+        axis: "Y"
+    ULON:
+        axis: "X"
+    ULAT:
+        axis: "Y"
     time:
         standard_name: "time"
     tarea:
