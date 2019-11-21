@@ -1,3 +1,4 @@
 variables:
     vicen_m:
         comment: "sea_ice_volume per unit area. Multiply by tarea to give volume per grid cell"
+        coordinates: "TLAT TLON"

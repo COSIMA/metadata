@@ -1,3 +1,4 @@
 variables:
     aice_m:
         standard_name: "sea_ice_area_fraction"
+        coordinates: "TLAT TLON"

@@ -1,3 +1,4 @@
 variables:
     hs_m:
         standard_name: "surface_snow_thickness"
+        coordinates: "TLAT TLON"
