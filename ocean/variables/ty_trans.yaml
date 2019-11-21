@@ -1,0 +1,3 @@
+variables:
+    ty_trans:
+        standard_name: "ocean_mass_y_transport"
