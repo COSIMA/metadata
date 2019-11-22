@@ -11,6 +11,11 @@ variables:
         axis: "Y"
     time:
         standard_name: "time"
+        _FillValue:
+    time_bounds:
+        _FillValue:
+    NCAT:
+        _FillValue:
     tarea:
         standard_name: "cell_area"
         coordinates: "TLON TLAT"

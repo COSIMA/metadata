@@ -1,39 +1,56 @@
 variables:
     yt_ocean:
-        long_name: "latitude in rotated tcell pole grid"
-        units: "degree"
+        long_name: "Nominal rectilinear tcell latitude"
+        units: "degrees"
         axis: "Y"
+        _FillValue:
     xt_ocean:
-        long_name: "longitude in rotated tcell pole grid"
-        units: "degree"
+        long_name: "Nominal rectilinear tcell longitude"
+        units: "degrees"
         axis: "X"
+        _FillValue:
     yu_ocean:
-        long_name: "latitude in rotated pole ucell grid"
-        units: "degree"
+        long_name: "Nominal rectilinear ucell latitude"
+        units: "degrees"
         axis: "Y"
+        _FillValue:
     xu_ocean:
-        long_name: "longitude in rotated pole ucell grid"
-        units: "degree"
+        long_name: "Nominal rectilinear ucell longitude"
+        units: "degrees"
         axis: "X"
+        _FillValue:
     geolon_t:
         long_name: "longitude coordinate"
-        units: "degree_east"
+        units: "degrees_east"
         standard_name: "longitude"
+        axis: "X"
+        cell_methods:
     geolat_t:
         long_name: "latitude coordinate"
-        units: "degree_north"
+        units: "degrees_north"
         standard_name: "latitude"
+        axis: "Y"
+        cell_methods:
     geolon_c:
         long_name: "longitude coordinate"
-        units: "degree_east"
+        units: "degrees_east"
         standard_name: "longitude"
+        axis: "X"
+        cell_methods:
     geolat_c:
         long_name: "latitude coordinate"
-        units: "degree_north"
+        units: "degrees_north"
         standard_name: "latitude"
+        axis: "Y"
+        cell_methods:
     time:
         standard_name: "time"
+        _FillValue:
     nv:
         units: "1"
+        _FillValue:
     st_ocean:
         standard_name: "depth"
+        _FillValue:
+    st_edges_ocean:
+        _FillValue:
