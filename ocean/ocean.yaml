@@ -9,12 +9,32 @@ variables:
         units: "degrees"
         axis: "X"
         _FillValue:
+    grid_yt_ocean:
+        long_name: "Nominal rectilinear tcell latitude"
+        units: "degrees"
+        axis: "Y"
+        _FillValue:
+    grid_xt_ocean:
+        long_name: "Nominal rectilinear tcell longitude"
+        units: "degrees"
+        axis: "X"
+        _FillValue:
     yu_ocean:
         long_name: "Nominal rectilinear ucell latitude"
         units: "degrees"
         axis: "Y"
         _FillValue:
     xu_ocean:
+        long_name: "Nominal rectilinear ucell longitude"
+        units: "degrees"
+        axis: "X"
+        _FillValue:
+    grid_yu_ocean:
+        long_name: "Nominal rectilinear ucell latitude"
+        units: "degrees"
+        axis: "Y"
+        _FillValue:
+    grid_xu_ocean:
         long_name: "Nominal rectilinear ucell longitude"
         units: "degrees"
         axis: "X"
