@@ -1,0 +1,3 @@
+variables:
+    aicen_m:
+        coordinates: "TLAT TLON"
