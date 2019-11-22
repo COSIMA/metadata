@@ -13,6 +13,7 @@ variables:
         standard_name: "time"
     tarea:
         standard_name: "cell_area"
+        coordinates: "TLON TLAT"
     ni:
         units: "1"
         long_name: "cell index along first dimension" 
