@@ -4,7 +4,7 @@ Metadata for published COSIMA data sets. Uses the [addmeta](https://github.com/c
 To add global metadata *and* ocean specific metadata to a number of ocean data files:
 
 ```
-addmeta -l global/globals -l ocean/oceanlist -m global/model_1deg.yaml <ice_data_files>
+addmeta -l global/globals -l ocean/oceanlist -m global/model_1deg.yaml <ocean_data_files>
 ```
 
 `globals` is a text file containing all the individual global metadata files for simplicity. 
